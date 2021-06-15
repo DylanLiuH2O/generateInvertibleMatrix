@@ -10,7 +10,7 @@
 编译源代码，`g++ ./genInvertibleMat.cc -o genInver`。  
 命令格式: `./genInvertibaleMat <iterations> <order> <filename> [int/double]`。  
 `iteration`是迭代次数，即执行初等行变换的次数，次数越多一般值变化越大。  
-`order`是矩阵阶数。
+`order`是矩阵阶数。  
 `filename`是文件名，不带路径则生成于当前目录，可以使用其他位置的路径。  
 `int/double`是可选项，用来决定倍加变换和倍乘变换的因子是整数还是浮点数。  
 
