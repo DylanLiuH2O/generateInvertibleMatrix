@@ -119,6 +119,7 @@ int main(int argc, char *argv[])
     out.open(filename);
     if (!out) {
         cerr << "file \"" << filename << "\" open error\n";
+        exit(1);
     }
 
     /* output matrix to file */
