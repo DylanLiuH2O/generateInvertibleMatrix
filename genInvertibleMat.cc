@@ -3,8 +3,8 @@
  * @Date: 2021-06-14 13:13:09
  * @LastEditTime: 2021-06-14 16:28:15
  * @LastEditors: dylan
- * @Description: generate an invertibale n-order matrix
- * @FilePath: /paraMatInver/tools/genInvertibaleMat.cc
+ * @Description: generate an invertible n-order matrix
+ * @FilePath: /paraMatInver/tools/genInvertibleMat.cc
  */
 #include <iostream>
 #include <fstream>
