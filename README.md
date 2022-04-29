@@ -7,7 +7,7 @@
 
 ## 用法  
 
-编译源代码，`g++ ./genInvertibleMat.cc -o genInver`。  
+编译源代码，`g++ ./genInvertibleMat.cc -o genInvertibleMat`。  
 命令格式: `./genInvertibleMat <iterations> <order> <filename> [int/double]`。  
 `iteration`是迭代次数，即执行初等行变换的次数，次数越多一般值变化越大。  
 `order`是矩阵阶数。  
